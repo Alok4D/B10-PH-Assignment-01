@@ -16,7 +16,7 @@ const Root = () => {
     return (
         <div>
              <Helmet>
-             <title>Fooddy24/7-Food Delivery</title>
+             <title>Batch-10-PH-Assignment-01</title>
           </Helmet>
             <div className="w-[80%] mx-auto">
             <Navbar></Navbar>
